@@ -1,0 +1,1 @@
+This error occurs when using the FlatList component in React Native and trying to render items with dynamic heights. If the height of each item is not consistently calculated, the FlatList might not render correctly, leading to blank spaces or incorrect item positions.
